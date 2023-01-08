@@ -154,5 +154,21 @@ header ul {
   color: #FFFFFF;
   background-color: #3882F6;
   border: solid 2px #FFFFFF;
+  border-radius: 4px;
+  padding: 2px;
   padding-left: 15px;
   padding-right: 15px;
+}
+
+footer {
+  background-color: #1F2937;
+  padding: 200px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+footer .text {
+  color: #FFFFFF;
+  font-size: 18px;
+  text-align: center;
+}
