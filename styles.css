@@ -106,7 +106,7 @@ header ul {
 
 .section-3 {
   background-color: #E5E7EB;
-  padding: 325px;
+  padding: 275px;
   padding-top: 100px;
   padding-bottom: 100px;
 }
@@ -116,6 +116,7 @@ header ul {
   font-weight: 300;
   font-style: italic;
   color: #1F2937;
+  padding-left: 40px;
 }
 
 .quote-author {
