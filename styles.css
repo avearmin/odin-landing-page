@@ -125,3 +125,34 @@ header ul {
   font-size: 21px;
   font-weight: 700;
 }
+
+.section-4 {
+  display: flex;
+  justify-content: space-between;
+  background-color: #3882F6;
+  margin: 200px;
+  margin-top: 75px;
+  margin-bottom: 75px;
+  padding: 150px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-radius: 4px;
+}
+
+.main-text {
+  color: #FFFFFF;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.secondary-text {
+  color: #FFFFFF;
+  font-size: 18px;
+}
+
+.section-4 button {
+  color: #FFFFFF;
+  background-color: #3882F6;
+  border: solid 2px #FFFFFF;
+  padding-left: 15px;
+  padding-right: 15px;
