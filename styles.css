@@ -73,3 +73,33 @@ header ul {
   justify-content: center;
   align-items: center;
 }
+
+.section-2 {
+  padding: 200px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.section-header {
+  text-align: center;
+  font-size: 36px;
+  font-weight: 800;
+  color: #1F2937;
+}
+
+.card-container {
+  display: flex;
+  padding-top: 20px;
+  justify-content: center;
+  gap: 20px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.card .text {
+  font-size: 18px;
+}
