@@ -66,6 +66,13 @@ header ul {
   padding-right: 10px;
 }
 
+.hero-image {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+}
+
 .placeholder {
   color: #FFFFFF;
   background-color: #808080;
