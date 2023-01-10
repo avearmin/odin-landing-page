@@ -100,13 +100,20 @@ header ul {
   flex-wrap: wrap;
   padding-top: 20px;
   justify-content: center;
-  gap: 20px;
+  gap: 40px;
 }
 
 .card {
   display: flex;
+  flex: 0;
   flex-direction: column;
   gap: 10px;
+}
+
+.card .placeholder {
+  border: #3882F6 solid 5px;
+  border-radius: 21px;
+  background-color: #FFFFFF;
 }
 
 .card .text {
