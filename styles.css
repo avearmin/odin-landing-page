@@ -44,19 +44,19 @@ header ul {
   padding-bottom: 75px;
 }
 
-.hero-text {
+.hero-main-text {
   font-size: 48px;
   font-weight: 800;
   color: #F9FAF8;
 }
 
-.section-1 .info .text {
+.hero-secondary-text {
   font-size: 18px;
   color: #E5E7EB;
   padding-bottom: 5px;
 }
 
-.section-1 .info button {
+.hero-sign-up {
   color: #FFFFFF;
   background-color: #3882F6;
   border: #3882F6;
@@ -66,14 +66,14 @@ header ul {
   padding-right: 10px;
 }
 
-.hero-image {
+.hero-right {
   display: flex;
   flex: 1;
   justify-content: center;
   align-items: center;
 }
 
-.placeholder {
+.hero-image {
   color: #FFFFFF;
   background-color: #808080;
   padding: 75px;
@@ -110,14 +110,16 @@ header ul {
   gap: 10px;
 }
 
-.card .placeholder {
+.card-image {
   border: #3882F6 solid 5px;
   border-radius: 21px;
   background-color: #FFFFFF;
+  padding: 80px;
 }
 
-.card .text {
+.card-text{
   font-size: 18px;
+  text-align: center;
 }
 
 .section-3 {
@@ -156,18 +158,18 @@ header ul {
   border-radius: 4px;
 }
 
-.main-text {
+.call-main-text {
   color: #FFFFFF;
   font-size: 24px;
   font-weight: 700;
 }
 
-.secondary-text {
+.call-secondary-text {
   color: #FFFFFF;
   font-size: 18px;
 }
 
-.section-4 button {
+.call-sign-up {
   color: #FFFFFF;
   background-color: #3882F6;
   border: solid 2px #FFFFFF;
@@ -184,7 +186,7 @@ footer {
   padding-bottom: 25px;
 }
 
-footer .text {
+.footer-text {
   color: #FFFFFF;
   font-size: 18px;
   text-align: center;
